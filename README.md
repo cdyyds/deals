@@ -1,2 +1,2 @@
 #two-hand deal
-node.js------mysql------bootstrap-----jquery
+node.js_mysql_bootstrap_jquery
